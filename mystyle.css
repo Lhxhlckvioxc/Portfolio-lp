@@ -1,0 +1,13 @@
+body {
+   background-color: black;
+}
+
+* {
+   color:aliceblue;
+}
+
+h1.Portfolio {
+   text-align: center;
+   text-size-adjust: 300px;
+}
+
