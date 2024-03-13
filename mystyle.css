@@ -6,8 +6,14 @@ body {
    color:aliceblue;
 }
 
-h1.Portfolio {
+h1.title {
    text-align: center;
    text-size-adjust: 300px;
+}
+
+h1.prince{
+   text-align: center;
+   border: 2px solid white;
+   border-radius: 10px;
 }
 
